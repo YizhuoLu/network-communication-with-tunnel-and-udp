@@ -31,11 +31,11 @@ configuration file is like:
   
   stage 1
   
-  # There can be other comments, or variable numbers of spaces or tabs in lines.
+  #There can be other comments, or variable numbers of spaces or tabs in lines.
   
-  # Clarification 2019-01-21: 1 router means one secondary router,
+  #Clarification 2019-01-21: 1 router means one secondary router,
   
-  # in addition to the implicit primary router.
+  #in addition to the implicit primary router.
   
   num_routers   1
   
