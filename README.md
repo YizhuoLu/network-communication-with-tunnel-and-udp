@@ -1,6 +1,7 @@
 # network-communication-with-tunnel-and-udp
 
 Language: C  Environment: Linux
+how to run: sudo ./proja config_file(random name now matter what your fild is called)
 
 There are two stages for this project:
 
